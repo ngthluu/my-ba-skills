@@ -1,0 +1,10 @@
+{
+  "name": "my-ba-skills",
+  "version": "0.1.0",
+  "description": "Discover and maintain traceable product requirements grounded in user journeys and evidence.",
+  "author": {
+    "name": "Luu Nguyen"
+  },
+  "skills": "./skills/",
+  "license": "MIT"
+}

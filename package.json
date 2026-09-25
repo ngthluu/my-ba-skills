@@ -1,0 +1,14 @@
+{
+  "name": "my-ba-skills-checks",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "test:install": "node --test tests/installation.test.mjs"
+  },
+  "engines": {
+    "node": ">=22.20.0"
+  },
+  "devDependencies": {
+    "skills": "1.5.25"
+  }
+}

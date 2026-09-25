@@ -1,0 +1,19 @@
+{
+  "name": "my-ba-skills",
+  "version": "0.1.0",
+  "description": "Discover and maintain traceable product requirements grounded in user journeys and evidence.",
+  "author": {
+    "name": "Luu Nguyen"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "My BA Skills",
+    "shortDescription": "Discover and maintain traceable product requirements.",
+    "longDescription": "The requirements skill inspects product behavior and evidence, clarifies user journeys, and maintains concise current requirements with traceable decisions.",
+    "developerName": "Luu Nguyen",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "defaultPrompt": ["Use $requirements to discover and maintain this product's requirements."]
+  },
+  "license": "MIT"
+}

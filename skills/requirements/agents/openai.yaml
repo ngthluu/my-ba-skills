@@ -1,0 +1,6 @@
+interface:
+  display_name: "Requirements"
+  short_description: "Discover and maintain traceable product requirements"
+  default_prompt: "Use $requirements to inspect this project, confirm user needs, and maintain its current requirements and change ledger."
+policy:
+  allow_implicit_invocation: false
